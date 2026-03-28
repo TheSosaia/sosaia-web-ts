@@ -1,0 +1,41 @@
+{
+  "city": "test-paris",
+  "bbox": {
+    "min_lat": 48.856,
+    "min_lng": 2.351,
+    "max_lat": 48.858,
+    "max_lng": 2.354
+  },
+  "chunk_size_meters": 200,
+  "chunks": [
+    {
+      "x": 0,
+      "z": 0,
+      "file": "0_0.bin",
+      "block_count": 160519,
+      "size_bytes": 963132
+    },
+    {
+      "x": 0,
+      "z": 1,
+      "file": "0_1.bin",
+      "block_count": 13800,
+      "size_bytes": 82818
+    },
+    {
+      "x": 1,
+      "z": 0,
+      "file": "1_0.bin",
+      "block_count": 12000,
+      "size_bytes": 72018
+    },
+    {
+      "x": 1,
+      "z": 1,
+      "file": "1_1.bin",
+      "block_count": 1380,
+      "size_bytes": 8298
+    }
+  ],
+  "total_blocks": 187699
+}

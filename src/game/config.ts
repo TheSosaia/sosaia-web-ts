@@ -28,7 +28,7 @@ export interface GameConfig {
 export const DEFAULT_CONFIG: GameConfig = {
   render: {
     faceCulling: true,
-    greedyMeshing: true,
+    greedyMeshing: false,
     textures: true,
     ambientOcclusion: true,
     shadows: true,

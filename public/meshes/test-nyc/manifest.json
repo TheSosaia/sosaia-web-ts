@@ -1,0 +1,22 @@
+{
+  "city": "test-nyc",
+  "bbox": {
+    "min_lat": 40.7128,
+    "min_lng": -74.006,
+    "max_lat": 40.7138,
+    "max_lng": -74.005
+  },
+  "chunk_size_meters": 200,
+  "chunks": [
+    {
+      "x": 0,
+      "z": 0,
+      "file": "0_0.mesh.bin",
+      "vertex_count": 354436,
+      "index_count": 531654,
+      "material_count": 59,
+      "size_bytes": 14886914
+    }
+  ],
+  "format": "mesh_v1"
+}
